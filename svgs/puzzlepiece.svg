@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+     viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+    <g id="puzzlepiece">
+        <path d="M19,19H3V3h16V19z M6,16h10V6H6V16z"/>
+    <path d="M19,38H3V22h16V38z M6,35h10V25H6V35z"/>
+    <path d="M19,57H3V41h16V57z M6,54h10V44H6V54z"/>
+    <path d="M38,19H22V3h16V19z M25,16h10V6H25V16z"/>
+    <path d="M38,38H22V22h16V38z M25,35h10V25H25V35z"/>
+    <path d="M38,57H22V41h16V57z M25,54h10V44H25V54z"/>
+    <path d="M57,19H41V3h16V19z M44,16h10V6H44V16z"/>
+    <path d="M57,38H41V22h16V38z M44,35h10V25H44V35z"/>
+    <path d="M57,57H41V41h16V57z M44,54h10V44H44V54z"/>
+    </g>
+</svg> 

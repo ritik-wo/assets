@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+     viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+    <g id="cornerstone">
+        <path d="M19,57H2V3h17C19,3,19,57,19,57z M4,55h13V5H4V55z"/>
+    <path d="M38,57H21V3h17C38,3,38,57,38,57z M23,55h13V5H23V55z"/>
+    <path d="M57,57H40V3h17C57,3,57,57,57,57z M42,55h13V5H42V55z"/>
+    </g>
+</svg> 
